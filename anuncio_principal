@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clases de Japonés</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        section {
+            margin: 20px 0;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Clases de Japonés</h1>
+    </header>
+
+    <section>
+        <h2>Descripción del Curso</h2>
+        <p>
+            ¡Bienvenido a nuestras clases de japonés! Este curso te proporcionará las habilidades necesarias para comenzar a hablar y entender japonés básico. Ya sea que estés interesado en la cultura japonesa, planificando un viaje a Japón, o simplemente quieras aprender un nuevo idioma, nuestras clases son el lugar perfecto para comenzar.
+        </p>
+    </section>
+
+    <section>
+        <h2>Detalles del Curso</h2>
+        <ul>
+            <li><strong>Nivel:</strong> Principiante</li>
+            <li><strong>Duración:</strong> 10 semanas</li>
+            <li><strong>Frecuencia:</strong> Dos clases por semana</li>
+            <li><strong>Horario:</strong> Lunes y Miércoles, 18:00 - 19:30</li>
+            <li><strong>Lugar:</strong> Centro de Idiomas, Dirección</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>¿Cómo Registrarse?</h2>
+        <p>
+            Para registrarte en nuestras clases de japonés, por favor completa el formulario de registro en línea en nuestra página web. Si tienes alguna pregunta, no dudes en contactarnos en <a href="mailto:info@clasesdejapones.com">info@clasesdejapones.com</a>.
+        </p>
+    </section>
+
+    <footer>
+        <p>© 2023 Clases de Japonés</p>
+    </footer>
+
+</body>
+</html>
